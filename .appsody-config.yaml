@@ -1,0 +1,2 @@
+project-name: cp4a-weather-app-openliberty
+stack: docker.io/kabanero/java-openliberty:0.2
